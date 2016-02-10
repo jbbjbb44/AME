@@ -4,13 +4,10 @@ To = Too Often D = Doctor P = Patient E = Emperor S = Servant L = LabRat C = hap
 
 TdTo P+D; P = L
 St P=D 
-So 
-D = L
-So 
-Ev = L
+  So D = L and Ev = L
 
 If P = E and D = S
-L is impossible by design
+-> L is impossible by design So
 E+S = C
 
 
